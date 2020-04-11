@@ -351,7 +351,7 @@ FUNCTION {format.et.al}
     { lang.ja entry.lang =
         { "他"}
         { lang.ru entry.lang =
-            { "" }
+            { "идр" }
             { "et~al." }
           if$
         }
